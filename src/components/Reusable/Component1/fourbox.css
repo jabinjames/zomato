@@ -1,0 +1,11 @@
+
+.card-text{
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    border-radius: 230px;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.3); 
+}

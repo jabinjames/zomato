@@ -1,0 +1,22 @@
+.inner-collection{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    position: relative;
+    top:25px;
+}
+.outer-collection h3{
+    font-size: 43px;
+}
+.outer-collection  p{
+    font-size: 22px;
+    position: relative;
+    top:5px;
+}
+.outer-collection h3,
+.outer-collection  p {
+  position: relative;
+  top:33px;
+  left: 160px;
+  font-weight:normal;
+}
