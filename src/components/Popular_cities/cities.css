@@ -1,0 +1,33 @@
+/* .cities .para{
+        border:2px solid black;
+        height: 30px;
+        width: 100px;
+    } */
+.cities h4{
+    font-size: 43px;
+    
+}
+.cities{
+    position: relative;
+    top:80px;
+    left: 359px;
+}
+.listsitems .list-group{
+    gap: 100px;
+    
+
+}
+.list-group {
+    height: 80px; /* Set the height */
+    width: 1000px; /* Set the width */
+    margin-bottom: 50px; 
+    margin-right: 120px; 
+    position: relative;
+    left: 159px;
+    top:20px;
+    
+}
+.list-group-item{
+    border: 2px solid black;
+    border-radius: 9px;
+}

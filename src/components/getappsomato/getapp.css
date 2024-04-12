@@ -1,0 +1,51 @@
+.input-box{
+    width: 340px;
+}
+.mobilepic img{
+    height: 260px;
+    width: 280px;
+    
+}
+.outer-app{
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dowloadapp img{
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.dowloadapp .playstore{
+    margin-right: 62px;
+}
+.input-box .btn{
+    background-color: #DA0C81;
+    color:white;margin-right: 19px;
+    
+}
+.input-box .input-group{
+    border-radius: 5px;
+    display: flex;
+   
+}
+.input-box input{
+    padding:13px 12px;
+}
+.app h1 {
+    font-weight:350;
+}
+.app p{
+    font-weight: lighter;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.checkbox label{
+    font-weight: 400;
+    font-size: large;
+}
+.innerapp{
+    padding: 19px;
+}
