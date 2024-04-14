@@ -4,7 +4,7 @@ import PhoneAndroidSharpIcon from '@mui/icons-material/PhoneAndroidSharp';
 import location from '../Header/location.png'
 import ArrowDropDownCircleSharpIcon from '@mui/icons-material/ArrowDropDownCircleSharp';
 import SearchIcon from '@mui/icons-material/Search';
-
+import Linkss from '../../components/LINks/main.jsx'
 function Main() {
     return (
         <div className='Background'>
@@ -15,11 +15,15 @@ function Main() {
                         <PhoneAndroidSharpIcon />
                         Get the app
                     </a>
+
                 </div>
                 <a href="http://localhost:5173">Home</a>
                 <a href='/addrestaurants'>Add Restaurant</a>
                 <a href='/Login'>Login</a>
                 <a href='/sign'>Sign up</a>
+            </div>
+            <div className='Linkss'>
+            <Linkss/>
             </div>
             <div className='Background-Somato'>
                 <div className=""><h3>SOMATO</h3>

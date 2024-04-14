@@ -5,11 +5,13 @@ import Cities from './components/Popular_cities/cities.jsx'
 import GetApp  from './components/getappsomato/getapp.jsx'
 import Drop from './components/Dropbox/drop.jsx'
 import Footer from './components/Footer/footer.jsx'
-import Linkss from './components/LINks/main.jsx'
+import Header from './components/Add_Restaurants/Header/header.jsx'
+
 function App() {
   return (
     <>
-      <Linkss/>
+       {/* import Linkss from './components/LINks/main.jsx'
+      <Linkss/> */}
       <Main />
       <Quatis/>
       <br />
@@ -24,7 +26,7 @@ function App() {
       <br />
       <br />
       <Footer></Footer>
-      
+      <Header></Header>
     </>
   )
 }

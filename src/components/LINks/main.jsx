@@ -11,7 +11,6 @@ export default function Linkss() {
                     <Route path='/addrestaurants'><Addrestaurant /></Route>
                     <Route path='/sign'><Sign /></Route>
                     <Route path='/Login'><Logins /></Route>
-                    {/* <Route path='http://localhost:5173'></Route> */}
                 </Switch>
             </Router>
         </div>
